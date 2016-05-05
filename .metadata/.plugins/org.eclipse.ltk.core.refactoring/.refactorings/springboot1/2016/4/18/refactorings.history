@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.arpassion.springboot.model&apos; to &apos;springboot2-h2/src/main/java&apos;&#x0A;- Original project: &apos;springboot1&apos;&#x0A;- Destination element: &apos;springboot2-h2/src/main/java&apos;&#x0A;- Original element: &apos;springboot1/src/main/java/com.arpassion.springboot.model&apos;" description="Copy package" destination="=springboot2-h2/src\/main\/java" element1="/src\/main\/java&lt;com.arpassion.springboot.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1461545507149" version="1.0"/>
+</session>

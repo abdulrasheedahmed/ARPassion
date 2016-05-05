@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="gs-producing-web-service-complete"/>
+<aop-project name="sb5-batch"/>
+<aop-project name="gs-consuming-rest"/>
+<aop-project name="sb4-rabbitmq-consumer"/>
+<aop-project name="springboot2-h2"/>
+<aop-project name="sbeans"/>
+<aop-project name="gs-producing-web-service-initial"/>
+<aop-project name="demo"/>
+<aop-project name="springboot1"/>
+<aop-project name="sb4-rabbitmq-producer"/>
+<aop-project name="sb6-async"/>
+<aop-project name="springboot3-fileupload"/>
+<aop-project name="springboot4-rabbitmq"/>
+</aop-reference-model>
